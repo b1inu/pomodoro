@@ -1,0 +1,9 @@
+.background {
+    -fx-background-color: #f6f5f3; /* ivory / light beige */
+}
+
+.title {
+    -fx-font-size: 24px;
+    -fx-text-fill: #2e2e2e; /* soft charcoal */
+    -fx-font-family: "Noto Sans", sans-serif;
+}
